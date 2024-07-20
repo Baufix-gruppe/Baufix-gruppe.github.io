@@ -3,11 +3,22 @@ html {
 }
 
 body {
-   background-image: linear-gradient(red, yellow, white, yellow, red);
    height: 100%;
+}
+
+main {
+   background-image: linear-gradient(red, yellow, white, yellow, red);
    margin: 0;
    background-repeat: no-repeat;
    background-attachment: fixed;
+}
+
+header { 
+  
+}
+
+footer { 
+
 }
 
 h1 {
