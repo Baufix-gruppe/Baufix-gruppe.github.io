@@ -1,5 +1,13 @@
+html {
+  height: 100%
+}
+
 body {
-  background-image: linear-gradient(red, yellow, white, yellow, red);
+   background-image: linear-gradient(red, yellow, white, yellow, red);
+   height: 100%;
+   margin: 0;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
 }
 
 h1 {
