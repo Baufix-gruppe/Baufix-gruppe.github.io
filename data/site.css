@@ -11,14 +11,20 @@ main {
    margin: 0;
    background-repeat: no-repeat;
    background-attachment: fixed;
+   height: 100%;
+}
+
+img {
+  padding: 10px
 }
 
 header { 
   background-color: #fff;
+  padding: 10px;
 }
 
 footer { 
-
+   padding: 10px;
 }
 
 h1 {
