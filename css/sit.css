@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'StartingPitchers'; /*a name to be used later*/
-    src: url('StartingPitchers.oft'); /*URL to font*/
+    font-family: 'BRICKS';
+    src: url('BricksPersonalUseBold.ttf');
 }
 
 body {
@@ -30,7 +30,7 @@ a {
     margin-top: 10%;
     margin-left: 15%;
     text-align: justify;
-    font-family: StartingPitchers;
+    font-family: BRICKS !important;
 }
 
 header {
