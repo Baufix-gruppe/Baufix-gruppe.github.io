@@ -84,7 +84,7 @@ footer a:hover {
     overflow: auto;
     background-color: #fff;
     top: 0;
-    position: relative;
+    position: absolute !important;
 }
 
 .navbar-toggle {
