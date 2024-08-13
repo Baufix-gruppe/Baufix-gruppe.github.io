@@ -53,9 +53,9 @@ header {
     }
 
 footer {
-    padding: 15px;
-    background-color: #666;
-    color: #ccc;
+    padding: 20px;
+    background-color: #999;
+    color: #ddd;
     position: absolute;
     bottom: 0px;
     margin: 0px;
