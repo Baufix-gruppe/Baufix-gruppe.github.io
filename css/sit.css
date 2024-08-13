@@ -15,6 +15,12 @@ a {
         color: rgb(0, 60, 121);
     }
 
+blockquote {
+    font-style: italic;
+    font-size: 21px;
+    font-weight: bold;
+}
+
 header {
         background-color: #fff;
         border: 0;
