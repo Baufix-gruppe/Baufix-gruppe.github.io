@@ -82,7 +82,7 @@ header li {
 
     header li a {
         display: block;
-        
+        color: rgb(0, 60, 121);
         text-align: center;
         margin: 0;
         padding: 15px;
