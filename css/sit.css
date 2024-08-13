@@ -51,6 +51,15 @@ header {
         
     }
 
+footer {
+    padding: 15px;
+    background-color: #666;
+    color: #ccc;
+    position: absolute;
+    bottom: 0px;
+    margin: 0px;
+}
+
 .navbar-collapse, nav {
     margin: 0;
     padding: 0;
