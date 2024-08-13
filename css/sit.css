@@ -19,6 +19,8 @@ blockquote {
     font-style: italic;
     font-size: 21px;
     font-weight: bold;
+    display: block;
+    width: 50%;
 }
 
 header {
