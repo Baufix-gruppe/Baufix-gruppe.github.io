@@ -70,6 +70,14 @@ footer {
     width: 100%;
 }
 
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #cdf;
+}
+
 .navbar-collapse, nav {
     margin: 0;
     padding: 0;
