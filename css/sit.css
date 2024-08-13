@@ -110,6 +110,8 @@ header li {
 main {
     position: relative;
     top: 10%;
+    margin-left: 40%;
+    margin-top: 40%;
     padding: 15px;
     
 }
