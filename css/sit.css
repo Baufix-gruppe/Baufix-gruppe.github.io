@@ -21,6 +21,7 @@ blockquote {
     font-weight: bold;
     display: block;
     width: 50%;
+    margin-top: 10%;
 }
 
 header {
@@ -118,8 +119,8 @@ header li {
 
 main {
     position: relative;
-    margin-left: 20%;
-    margin-top: 20%;
+    margin-left: 15%;
+    margin-top: 15%;
     padding: 15px;
     
 }
