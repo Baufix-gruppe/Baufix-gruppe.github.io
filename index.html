@@ -19,33 +19,28 @@
 <body>
     <header id="myNavbar">
         <div class="container">
-            <a class="homepage" href="./">
-                <img src="../img/logo.jpg" />
-            </a>
-           <nav id="menu" class="site-navigation collapse navbar-collapse fixed-top navbar-expand-lg" role="navigation">
+           <nav class="navbar navbar-expand-lg navbar-light">
+               <a class="navbar-brand homepage" href="./">
+                    <img src="../img/logo.jpg" />
+               </a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Toggle navigation">
+                   <span class="navbar-toggler-icon"></span>
+               </button>
 
-                <ul class="flex-container">
-                    <li style="flex-grow: 1">
-                        <a href="ueber">
-                            Über uns
-                        </a>
-                    </li>
-                    <li style="flex-grow: 1">
-                        <a href="kontakt">
-                            Kontakt
-                        </a>
-                    </li>
-                    <li style="flex-grow: 1">
-                        <a href="impressum">
-                            Impressum
-                        </a>
-                    </li>
-                </ul>
-
+               <div class="collapse navbar-collapse" id="menu">
+                   <ul class="navbar-nav mr-auto">
+                       <li class="nav-item">
+                           <a class="nav-link" href="ueber">Über uns</a>
+                       </li>
+                       <li class="nav-item">
+                           <a class="nav-link" href="kontakt">Kontakt</a>
+                       </li>
+                       <li class="nav-item">
+                           <a class="nav-link" href="impressum">Impressum</a>
+                       </li>
+                   </ul>
+                </div>
             </nav>
-            <button type="button" class="btn navbar-toggle collapsed" data-toggle="collapse" data-target="menu">
-                &#9776;
-            </button>
         </div>
 
     </header>
