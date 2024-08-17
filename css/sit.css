@@ -167,3 +167,9 @@ main {
 main .about {
     font-size: 22px;
 }
+
+main img{
+    height: 20%;
+    width: auto;
+    position: relaTIve;
+}
