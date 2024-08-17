@@ -168,8 +168,12 @@ main .about {
     font-size: 22px;
 }
 
-main img{
+.carousel-item {
     height: 20%;
     width: auto;
-    position: relaTIve;
+}
+
+.carousel-item img {
+    height: 20%;
+    width: auto;
 }
