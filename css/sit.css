@@ -86,9 +86,9 @@ footer a:hover {
 }
 
 .navbar-toggle {
-    color: rgb(0, 60, 121);
-    padding-right: 5%;
-    padding-left: 5%;
+    color: rgb(0, 60, 121) !important;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 
 #menu {
