@@ -99,6 +99,11 @@ footer a:hover {
     padding-left: 5%;
 }
 
+#menu {
+    position: absolute;
+    left: 40%;
+}
+
     .navbar-toggle:hover {
         color: #b2e5ff !important;
     }
