@@ -12,6 +12,10 @@ body {
 }
 
 .carousel {
+    position: relaTIve;
+}
+
+.carousel img{
     height: 20%;
     width: auto;
     position: relaTIve;
