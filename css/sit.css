@@ -14,6 +14,7 @@ body {
 .carousel {
     height: 50%;
     width: auto;
+    position: relaTIve;
 }
 
 a {
@@ -36,6 +37,7 @@ a {
     margin-left: 15%;
     text-align: justify;
     font-family: Tahoma !important;
+    position: relaTIve;
 }
 
 header {
