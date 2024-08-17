@@ -13,12 +13,7 @@ body {
 
 .carousel {
     position: relaTIve;
-}
-
-.carousel img{
-    height: 20%;
-    width: auto;
-    position: relaTIve;
+    margin-left: 20%;
 }
 
 a {
@@ -168,12 +163,12 @@ main .about {
     font-size: 22px;
 }
 
-.carousel-item {
+#carousel01 .carousel-item {
     height: 20%;
     width: auto;
 }
 
-.carousel-item img {
+#carousel01 .carousel-item img {
     height: 20%;
     width: auto;
 }
