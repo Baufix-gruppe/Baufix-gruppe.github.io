@@ -163,12 +163,12 @@ main .about {
     font-size: 22px;
 }
 
-#carousel01 .carousel-item {
+#carousel01 .item {
     height: 20%;
     width: auto;
 }
 
-#carousel01 .carousel-item img {
+#carousel01 .item img {
     height: 20%;
     width: auto;
 }
