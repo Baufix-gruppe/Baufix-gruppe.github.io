@@ -18,7 +18,7 @@ a {
     a:hover {
         text-decoration: none;
         color: rgb(0, 60, 121);
-        background-color: #fff !important;
+        background-color: transparent !important;
     }
 
 .qot {
@@ -81,7 +81,7 @@ footer a:hover {
 }
 
 .navbar-collapse, nav {
-    background-color: #fff;
+    background-color: transparent;
     top: 0;
 }
 
@@ -117,7 +117,7 @@ header li {
 
     header li a {
         color: rgb(0, 60, 121);
-        background-color: #fff;
+        background-color: transparent;
         text-align: center;
         text-decoration: none;
         font-weight: bold;
@@ -130,18 +130,18 @@ header li {
 
         header li a:hover {
             color: #ff3300;
-            background-color: #fff;
+            background-color: transparent;
             text-decoration: none;
         }
 
         header li a:active {
             color: #39e;
-            background-color: #fff;
+            background-color: transparent;
         }
 
             header li a:active:hover {
                 color: #ffff00;
-                background-color: #fff;
+                background-color: transparent;
             }
 
 main {
