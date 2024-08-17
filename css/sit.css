@@ -174,7 +174,7 @@ main .about {
 
 
 #slick {
-  display: none;
+  display: block;
 }
 
 #slick.slick-initialized {
