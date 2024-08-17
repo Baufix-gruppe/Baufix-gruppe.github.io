@@ -11,6 +11,11 @@ body {
     line-height: 180%;
 }
 
+.carousel {
+    height: 50%;
+    width: auto;
+}
+
 a {
     text-decoration: none;
     color: #ff3300;
