@@ -85,17 +85,12 @@ footer a:hover {
 }
 
 .navbar-collapse, nav {
-    margin: 0;
-    padding: 0;
-    overflow: auto;
     background-color: #fff;
     top: 0;
 }
 
 .navbar-toggle {
     color: rgb(0, 60, 121);
-    padding: 0px;
-    margin: 0px;
     padding-right: 5%;
     padding-left: 5%;
 }
@@ -115,11 +110,7 @@ header img {
 }
 
 header ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
     background-color: #fff;
-    top: 0;
 }
 
 header li {
@@ -127,11 +118,8 @@ header li {
 }
 
     header li a {
-        display: block;
         color: rgb(0, 60, 121);
         text-align: center;
-        margin: 0;
-        padding: 15px;
         text-decoration: none;
         font-weight: bold;
         text-transform: uppercase;
@@ -147,11 +135,11 @@ header li {
         }
 
         header li a:active {
-            background-color: #39e;
+            color: #39e;
         }
 
             header li a:active:hover {
-                background-color: #ffff00;
+                color: #ffff00;
             }
 
 main {
