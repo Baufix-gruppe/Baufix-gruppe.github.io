@@ -163,11 +163,9 @@ main .about {
 }
 
 #carousel01 .item {
-    height: 20%;
-    width: auto;
+    padding-left:20%; 
 }
 
 #carousel01 .item img {
-    height: 20%;
-    width: auto;
+
 }
