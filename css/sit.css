@@ -6,6 +6,10 @@ body {
     line-height: 180%;
 }
 
+h3, h2 {
+    line-height: 180%;
+}
+
 .carousel {
     position: relaive;
 }
