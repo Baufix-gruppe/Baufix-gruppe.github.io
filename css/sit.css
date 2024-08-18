@@ -177,7 +177,7 @@ main .about {
 
 #carousel01 .item img {
     height: 381px !important;
-    width: 185px !important;
+    width: auto !important;
 }
 
 @keyframes fading {
