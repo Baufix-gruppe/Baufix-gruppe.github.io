@@ -12,7 +12,7 @@ h3, h2 {
 
 .carousel {
     margin-top: 20px;
-    position: relaive;
+    position: relative;
 }
 
 a {
@@ -36,7 +36,7 @@ a {
     margin-left: 5%;
     text-align: left;
     font-family: Tahoma !important;
-    position: relaTIve;
+    position: relative;
 }
 
 header {
