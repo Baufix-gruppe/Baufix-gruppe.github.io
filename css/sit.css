@@ -161,8 +161,7 @@ main .about {
 }
 
 #carousel01 .item {
- opacity: 0;
- transition-property: opacity;
+ animation: fading 2s;
 }
 
 #carousel01 .item {
@@ -174,3 +173,7 @@ main .about {
     width: 185px !important;
 }
 
+@keyframes fading {
+  from {opacity: 1;}
+  to {opacity: 0;}
+}
