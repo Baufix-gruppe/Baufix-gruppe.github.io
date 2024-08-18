@@ -161,6 +161,11 @@ main .about {
 }
 
 #carousel01 .item {
+ opacity: 0;
+ transition-property: opacity;
+}
+
+#carousel01 .item {
     padding-left:40%; 
 }
 
