@@ -160,6 +160,11 @@ main .about {
     font-size: 22px;
 }
 
+#carousel01 {
+    margin-top:100px;
+    margin-bottom: -100px;
+}
+
 #carousel01 .item {
  animation: fading 3s;
 }
