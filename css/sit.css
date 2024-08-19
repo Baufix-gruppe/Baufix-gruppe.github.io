@@ -53,6 +53,9 @@ a {
     color: #fff !important;
     padding: 35px;
     border-radius: 20px;
+    text-shadow: -1px -1px 0 #9ef, 
+    1px -1px 0 #9ef, 1px 1px 0 #9ef,
+    1px 1px 0 #9ef;
 }
 
 header {
