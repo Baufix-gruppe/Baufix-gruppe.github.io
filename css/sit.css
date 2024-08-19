@@ -41,8 +41,8 @@ a {
     animation: fading 4s;
     background-color: #036 !important;
     color: #fff !important;
-    padding: 15px;
-    border-radius:15px;
+    padding: 20px;
+    border-radius: 20px;
 }
 
 header {
