@@ -42,6 +42,7 @@ a {
     background-color: #036 !important;
     color: #fff !important;
     padding: 15px;
+    border-radius:15px;
 }
 
 header {
@@ -159,7 +160,7 @@ main {
     margin-left: 5%;
     margin-top: 100px;
     padding: 15px;
-    
+    padding-top: 30px;
 }
 
 main .about {
