@@ -18,10 +18,10 @@ h3, h2 {
 
 a {
     text-decoration: none;
-    color: #ff6633;
+    color: #ff4422;
 }
 
-    a:hover {
+    a:hover, a:active {
         text-decoration: none;
         color: rgb(0, 60, 121);
         background-color: transparent !important;
