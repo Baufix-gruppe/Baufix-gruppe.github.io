@@ -38,7 +38,7 @@ a {
     text-align: left;
     font-family: Tahoma !important;
     position: relative;
-    animation: fading 4s;
+    animation: fading2 4s;
     background-color: #036 !important;
     color: #fff !important;
     padding: 25px;
@@ -193,4 +193,10 @@ main .about {
 @keyframes fading {
   from {opacity: 0;}
   to {opacity: 1;}
+}
+
+@keyframes fading2 {
+  0% {opacity: 0;}
+  50% {opacity: 0;}
+  100% {opacity: 1;}
 }
