@@ -107,6 +107,12 @@ footer a:hover {
     color: #cdf;
 }
 
+.kontakt {
+    text-shadow: -1px -1px 0 #333, 
+    1px -1px 0 #333, 1px 1px 0 #333,
+    1px 1px 0 #333;
+}
+
 .kontakt a:hover {
     text-shadow: 0 0 8px #eed;
 }
