@@ -12,6 +12,12 @@ h3, h2 {
     margin-bottom: 20px;
 }
 
+hr {
+    background-color: #fff;
+    color: #fff;
+    border-color: #fff;
+}
+
 .carousel {
     margin-top: 20px;
     position: relative;
