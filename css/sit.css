@@ -7,9 +7,18 @@ body {
     background-color: #049;
 }
 
+.textout {
+    text-shadow: -1px -1px 0 #444, 
+    1px -1px 0 #444, 1px 1px 0 #4444,
+    1px 1px 0 #4444;
+}
+
 h3, h2 {
     line-height: 140%;
     margin-bottom: 20px;
+    text-shadow: -1px -1px 0 #444, 
+    1px -1px 0 #444, 1px 1px 0 #4444,
+    1px 1px 0 #4444;
 }
 
 hr {
