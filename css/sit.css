@@ -84,10 +84,11 @@ footer {
     padding: 20px;
     background-color: #006;
     color: #bce;
-    position: relative;
+    position: fixed;
     bottom: 0px;
     margin: 0px;
     width: 100%;
+    height: 100px;
     margin-top: 3%
 }
 
