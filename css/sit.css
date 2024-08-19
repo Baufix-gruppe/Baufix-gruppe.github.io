@@ -41,7 +41,7 @@ a {
 }
 
 header {
-        background-color: #fff;
+        background-color: #fff !important;
         border: 0;
         font-weight: bold;
         margin: 0px;
