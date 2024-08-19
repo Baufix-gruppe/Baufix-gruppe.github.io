@@ -1,9 +1,10 @@
 body {
     font-family: 'Segoe UI', Tahoma, Arial, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    color: #444;
+    color: #bb0;
     height: 100%;
     line-height: 180%;
+    background-color: #049;
 }
 
 h3, h2 {
@@ -38,6 +39,8 @@ a {
     font-family: Tahoma !important;
     position: relative;
     animation: fading 4s;
+    background-color: #036 !important;
+    color: #fff !important;
 }
 
 header {
@@ -70,7 +73,7 @@ header {
 
 footer {
     padding: 20px;
-    background-color: #679;
+    background-color: #006;
     color: #bce;
     position: relative;
     bottom: 0px;
