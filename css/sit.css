@@ -41,6 +41,7 @@ a {
     animation: fading 4s;
     background-color: #036 !important;
     color: #fff !important;
+    padding: 15px;
 }
 
 header {
