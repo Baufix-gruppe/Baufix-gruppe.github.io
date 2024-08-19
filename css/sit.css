@@ -18,7 +18,7 @@ h3, h2 {
 
 a {
     text-decoration: none;
-    color: #ff3300;
+    color: #ff6633;
 }
 
     a:hover {
@@ -91,7 +91,7 @@ footer a:hover {
     color: #cdf;
 }
 
-.kontakt a{
+.kontakt a:hover {
     text-shadow: 0 0 8px #eed;
 }
 
