@@ -16,9 +16,9 @@ body {
 h3, h2 {
     line-height: 140%;
     margin-bottom: 20px;
-    text-shadow: -1px -1px 0 #666, 
-    1px -1px 0 #666, 1px 1px 0 #666,
-    1px 1px 0 #666;
+    text-shadow: -1px -1px 0 #444, 
+    1px -1px 0 #444, 1px 1px 0 #444,
+    1px 1px 0 #444;
 }
 
 .carousel {
