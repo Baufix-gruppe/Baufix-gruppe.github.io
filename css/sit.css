@@ -37,6 +37,7 @@ a {
     text-align: left;
     font-family: Tahoma !important;
     position: relative;
+    animation: fading 2s;
 }
 
 header {
