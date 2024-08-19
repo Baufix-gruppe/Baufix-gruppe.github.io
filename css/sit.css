@@ -91,6 +91,10 @@ footer a:hover {
     color: #cdf;
 }
 
+.kontakt a{
+    text-shadow: 2px 2px 8px #eed;
+}
+
 .navbar-collapse, nav {
     background-color: transparent;
     top: 0;
