@@ -33,15 +33,15 @@ a {
     font-weight: bold;
     display: block;
     width: 85%;
-    margin-top: 5%;
-    margin-left: 5%;
+    margin-top: 4%;
+    margin-left: 4%;
     text-align: left;
     font-family: Tahoma !important;
     position: relative;
     animation: fading 4s;
     background-color: #036 !important;
     color: #fff !important;
-    padding: 20px;
+    padding: 25px;
     border-radius: 20px;
 }
 
