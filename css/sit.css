@@ -1,24 +1,24 @@
 body {
     font-family: 'Segoe UI', Tahoma, Arial, Geneva, Verdana, sans-serif;
     font-size: 16px;
-    color: #cc6;
+    color: #dd9;
     height: 100%;
     line-height: 180%;
     background-color: #049;
 }
 
 .textout {
-    text-shadow: -1px -1px 0 #444, 
-    1px -1px 0 #444, 1px 1px 0 #4444,
-    1px 1px 0 #4444;
+    text-shadow: -1px -1px 0 #fff, 
+    1px -1px 0 #fff, 1px 1px 0 #fff,
+    1px 1px 0 #fff;
 }
 
 h3, h2 {
     line-height: 140%;
     margin-bottom: 20px;
-    text-shadow: -1px -1px 0 #444, 
-    1px -1px 0 #444, 1px 1px 0 #4444,
-    1px 1px 0 #4444;
+    text-shadow: -1px -1px 0 #fff, 
+    1px -1px 0 #fff, 1px 1px 0 #fff,
+    1px 1px 0 #fff;
 }
 
 hr {
