@@ -59,14 +59,14 @@ a {
     letter-spacing: 0px;
     width: 80%;
     margin-top: 4%;
-    margin-left: 4%;
+    margin-left: 5%;
     text-align: left;
     font-family: president !important;
     position: relative;
     animation: fading2 3s;
     background-color: #036 !important;
     color: #fff !important;
-    padding: 35px;
+    padding: 25px;
     border-radius: 20px;
 }
 
