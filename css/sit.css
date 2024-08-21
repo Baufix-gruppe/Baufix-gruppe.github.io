@@ -91,6 +91,10 @@ footer {
     margin-top: 3%
 }
 
+footer div {
+    padding: 20px;
+}
+
 .footer {
     position: fixed;
     bottom: 0px;
@@ -102,6 +106,10 @@ footer a {
 
 footer a:hover {
     color: #cdf;
+}
+
+.kontakt {
+    font-size: 18px;
 }
 
 .kontakt a {
