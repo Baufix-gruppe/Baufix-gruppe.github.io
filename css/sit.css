@@ -10,12 +10,12 @@
 
 @font-face {
     font-family: BlueIsland;
-    src: url(PRISTINA.TTF);
+    src: url(BlueIsland-Regular.ttf);
 }
 
 body {
     font-family: 'Segoe UI', Tahoma, Arial, Geneva, Verdana, sans-serif;
-    font-family: Pristina;
+    font-family: BlueIsland;
     font-size: 16px;
     color: #ddc;
     height: 100%;
