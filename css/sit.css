@@ -3,6 +3,11 @@
     src: url(presdntn.TTF);
 }
 
+@font-face {
+    font-family: Pristina;
+    src: url(presdntn.TTF);
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Arial, Geneva, Verdana, sans-serif;
     font-family: president;
