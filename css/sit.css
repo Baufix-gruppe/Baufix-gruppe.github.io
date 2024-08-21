@@ -91,11 +91,6 @@ footer {
     margin-top: 3%
 }
 
-footer div div {
-    padding: 5px;
-    margin: 5px;
-}
-
 .footer {
     position: fixed;
     bottom: 0px;
