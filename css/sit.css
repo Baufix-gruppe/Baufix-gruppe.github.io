@@ -8,6 +8,11 @@
     src: url(PRISTINA.TTF);
 }
 
+@font-face {
+    font-family: BlueIsland;
+    src: url(PRISTINA.TTF);
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Arial, Geneva, Verdana, sans-serif;
     font-family: Pristina;
