@@ -81,7 +81,7 @@ header {
     }
 
 footer {
-    padding: 5px;
+    padding: 10px;
     background-color: #006;
     color: #bce;
     position: relative;
@@ -92,8 +92,8 @@ footer {
 }
 
 footer div div {
-    padding: 3px;
-    margin: 10px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .footer {
