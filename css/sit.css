@@ -86,7 +86,9 @@ header {
     }
 
 footer {
-    padding: 25px;
+    padding: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
     background-color: #006;
     color: #bce;
     position: relative;
