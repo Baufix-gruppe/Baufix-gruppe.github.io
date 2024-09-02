@@ -227,7 +227,6 @@ main .about {
 
 #carousel01 .item {
  animation: fading 3s;
- animation-timing-function: ease;
 }
 
 #carousel01 .item {
