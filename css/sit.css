@@ -221,13 +221,7 @@ main .about {
     margin-bottom: -110px;
 }
 
-#carousel01 .item {
- animation: fading 3s;
-}
 
-#carousel01 .item {
- animation: backInDown 3s;
-}
 
 #carousel01 .item {
     padding-left: 35%; 
