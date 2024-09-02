@@ -231,6 +231,10 @@ main .about {
 }
 
 #carousel01 .item {
+ animation: zoomInDown 2s;
+}
+
+#carousel01 .item {
     padding-left: 35%; 
 }
 
