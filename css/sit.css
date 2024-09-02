@@ -226,7 +226,7 @@ main .about {
 }
 
 #carousel01 .item {
- animation: backInDown 2s;
+ animation: backInDown 3s;
 }
 
 #carousel01 .item {
@@ -270,7 +270,7 @@ main .about {
 
 @keyframes backInDown {
   0% {
-    transform: translateY(-1200px) scale(0.3);
+    transform: translateY(-1500px) scale(0.3);
     opacity: 0.2;
   }
 
