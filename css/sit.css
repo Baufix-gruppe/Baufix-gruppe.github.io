@@ -1,3 +1,7 @@
+:root {
+  --animate-delay: 2s;
+}
+
 @font-face {
     font-family: president;
     src: url(presdntn.TTF);
